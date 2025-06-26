@@ -4,6 +4,8 @@
  * Commercial use requires license.
  * Contact: Fordamboy1@gmail.com
  */
-AWS SDK for Go
-Copyright 2015 Amazon.com, Inc. or its affiliates. All Rights Reserved. 
-Copyright 2014-2015 Stripe, Inc.
+./backend/udp/proxy.c
+./backend/udp/proxy.h
+./valid_targets.txt
+./vendor/github.com/aws/aws-sdk-go/NOTICE.txt
+./vendor/github.com/aws/aws-sdk-go/LICENSE.txt
